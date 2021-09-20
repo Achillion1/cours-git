@@ -1,0 +1,43 @@
+header{
+    
+    text-align: center;
+    background-color: blueviolet ;
+}
+
+nav{
+    color: darkred;
+background-color:blueviolet ;
+list-style-type: none;
+text-align: center;
+border-bottom: royalblue solid 2px;
+transition: all 1s ease-out;
+
+}
+nav:hover,
+nav:focus {
+    color:darkgreen
+}
+
+
+
+footer{
+    background-color: salmon;
+    border-top: royalblue solid 2px;
+    height: 300px;
+    text-align: center
+   
+}
+h1{
+    color: red;
+size: 36px;
+
+}
+
+h2{
+    color: blue;
+    size: 28px;
+}
+section{
+    height: 350px;
+    margin-bottom: 20px ;
+}

@@ -1,0 +1,67 @@
+html {
+margin: 0;
+padding: 0;
+background-image: url(https://img.bfmtv.com/c/630/420/871/7b9f41477da5f240b24bd67216dd7.jpg);
+background-position: center;
+background-size:3000px ;
+background-repeat: no-repeat;
+}
+
+
+logo{
+padding: 10px;
+
+
+}
+nv{
+margin: 20px;
+
+}
+
+
+ h2{
+color: grey;
+font-size: 24px;
+font-family: 'Roboto', sans-serif;
+
+ }
+
+ p{
+font-size: 18px;
+justify-self: auto;
+background-color: orchid;
+font-family: 'Alegreya', serif;
+padding: 15px;
+
+ }
+
+ footer {
+background-color: royalblue;
+color:white;
+ }
+
+ label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input,
+label {
+    margin: .4rem 0;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input,
+label {
+    margin: .4rem 0;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+input,
+label {
+    margin: .4rem 0;
+}
